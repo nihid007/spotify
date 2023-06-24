@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+  }
+.container2{
+  position: fixed;
+  background-color: rgb(42, 139, 161);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.box{
+  background-color: white;
+  border-radius: 11px;
+  padding: 30px;
+  width: 500px;
+  height: 600px;
+  margin-top: 50p;
+}
+header{
+  font-size: 25px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-align: center;
+  margin-top: 40px;
+  
+}
+form{
+  margin-top: 80px;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+.em{
+  height: 50px;
+  width: 400px;
+  border: 1px solid gainsboro;
+  padding-left: 20px;
+  margin-top: 5px;
+  
+}
+
+.but{
+  height: 48px;
+  width: 410px;
+  border: none;
+  background-color: rgb(42, 139, 161) ;
+  color: white;
+  margin-top: 15px;
+}
+.t1,.t2{
+  margin-top: 35px;
+  font-size: small;
+  text-align: center;
+}
+.t1{
+  margin-bottom: -14px;
+}
+.ck{
+  margin-top: 15px;
+  margin-left: -295px;
+  margin-bottom: 30px;
+}
+.l2{
+  margin-top: 35px;
+}
